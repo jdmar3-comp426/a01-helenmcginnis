@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a01-helenmcginnis/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a01-helenmcginnis#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a01-helenmcginnis#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
 }
